@@ -10,6 +10,7 @@ $chat = new Chat();
 //echo '<pre>';
 //print_r($chat->fetchMessages());
 //echo '</pre>';
+echo 'sheeeeeeeit';
 ?>
 
 <!DOCTYPE html>
